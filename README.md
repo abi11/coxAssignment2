@@ -1,4 +1,4 @@
-# ## Abhiyendra K Mishra
+### Abhiyendra K Mishra
 
 This Application is written in scala using Play Framework. 
 User can add/remove stocks to watch quotes in real time using  Yahoo! finance.
